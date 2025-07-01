@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend web development
 - 🌱 I’m currently learning Django
 
-I’m looking for an internship
+I’m working some where but open for opportunity
 
 <!---
 anaysah/anaysah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
